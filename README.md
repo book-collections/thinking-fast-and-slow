@@ -60,3 +60,7 @@
 36. Life as a Story
 37. Experienced Well-Being
 38. Thinking About Life
+
+---
+
+![Cover](./images/cover.jpg)
