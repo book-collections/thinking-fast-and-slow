@@ -2,7 +2,8 @@
 
 ## Download
 
-* [EPUB](./downloads/ebin.pub_thinking-fast-and-slow-9780141918921-0374533555-9780374533557-0141918926.epub)
+* [EPUB format](./downloads/Thinking,%20Fast%20and%20Slow%20(Daniel%20Kahneman)%20(Z-Library).epub)
+* [MOBI format](./downloads/Thinking,%20Fast%20and%20Slow%20(Daniel%20Kahneman%20[Kahneman,%20Daniel])%20(Z-Library).mobi)
 
 ---
 
